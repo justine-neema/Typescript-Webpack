@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "builds": "webpack"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
